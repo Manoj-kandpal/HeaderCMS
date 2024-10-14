@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_header_links",
+  "info": {
+    "displayName": "link",
+    "icon": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "link"
+      ],
+      "default": "link",
+      "required": true
+    },
+    "ariaLabel": {
+      "type": "text"
+    }
+  }
+}

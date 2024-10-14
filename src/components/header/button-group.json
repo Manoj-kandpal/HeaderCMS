@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_header_button_groups",
+  "info": {
+    "displayName": "ButtonGroup",
+    "icon": "cursor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "header.button"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "buttons"
+      ],
+      "default": "buttons",
+      "required": true
+    }
+  }
+}

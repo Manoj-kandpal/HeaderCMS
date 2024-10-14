@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_footer_single_columns",
+  "info": {
+    "displayName": "SingleColumn",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "columnTitle": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "header.link"
+    }
+  }
+}

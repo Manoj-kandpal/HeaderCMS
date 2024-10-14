@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_app_links",
+  "info": {
+    "displayName": "AppLinks",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "header.link"
+    }
+  }
+}

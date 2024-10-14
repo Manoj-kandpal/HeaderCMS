@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_footer_copyrights",
+  "info": {
+    "displayName": "Copyright",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_header_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "attachment",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "primary",
+        "secondary"
+      ]
+    },
+    "ariaLabel": {
+      "type": "text"
+    }
+  }
+}

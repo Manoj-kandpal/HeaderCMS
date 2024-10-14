@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_header_link_with_descriptions",
+  "info": {
+    "displayName": "linkWithDescription",
+    "icon": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "ariaLabel": {
+      "type": "text"
+    }
+  }
+}

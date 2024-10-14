@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_footer_footer_containers",
+  "info": {
+    "displayName": "FooterContainer",
+    "icon": "link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "links": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.footer-links"
+    },
+    "information": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.footer-information"
+    }
+  }
+}

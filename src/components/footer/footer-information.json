@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_footer_footer_informations",
+  "info": {
+    "displayName": "FooterInformation",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "copyright": {
+      "displayName": "Copyright",
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.copyright"
+    },
+    "socialLinks": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.app-links"
+    }
+  }
+}
